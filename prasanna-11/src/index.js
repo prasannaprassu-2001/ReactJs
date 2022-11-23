@@ -1,3 +1,3 @@
 import ReactDom from 'react-dom'
-import App from './App'
-ReactDom.render(<App/>, document.getElementById('hw'))
+import Msg from './Msg'
+ReactDom.render(<Msg/>, document.getElementById('hw'));
