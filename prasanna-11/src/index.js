@@ -1,3 +1,3 @@
 import ReactDom from 'react-dom'
-import Form from './Form'
-ReactDom.render(<Form/>, document.getElementById('hw'));
+import Stud from './Stud'
+ReactDom.render(<Stud/>, document.getElementById('hw'));
