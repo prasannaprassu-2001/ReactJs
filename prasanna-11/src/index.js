@@ -1,6 +1,6 @@
 import ReactDom from 'react-dom'
-import User from './Product'
-ReactDom.render(<User/>, document.getElementById('hw')); 
+import Room from './Room'
+ReactDom.render(<Room/>, document.getElementById('hw')); 
 
 
 
