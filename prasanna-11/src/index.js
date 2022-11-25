@@ -1,3 +1,3 @@
 import ReactDom from 'react-dom'
-import Stud from './Stud'
-ReactDom.render(<Stud/>, document.getElementById('hw'));
+import Comp1 from './Comp1'
+ReactDom.render(<Comp1/>, document.getElementById('hw'));
