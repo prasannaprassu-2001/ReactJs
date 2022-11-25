@@ -10,7 +10,7 @@ class Room extends React.Component{
     }
     render(){
         return <>
-             <Function  info={this.Account} />
+             <Function info={this.Account} />
             </>
     }
 }

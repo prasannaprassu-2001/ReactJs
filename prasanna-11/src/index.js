@@ -1,6 +1,6 @@
 import ReactDom from 'react-dom'
-import Room from './Room'
-ReactDom.render(<Room/>, document.getElementById('hw')); 
+import Apple from './Apple'
+ReactDom.render(<Apple/>, document.getElementById('hw')); 
 
 
 
