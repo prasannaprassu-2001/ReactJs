@@ -1,6 +1,6 @@
 import ReactDom from 'react-dom'
-import Apple from './Apple'
-ReactDom.render(<Apple/>, document.getElementById('hw')); 
+import App from './App'
+ReactDom.render(<App/>, document.getElementById('hw')); 
 
 
 
