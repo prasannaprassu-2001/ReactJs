@@ -1,8 +1,8 @@
-import Items from './Items'
+import Bind from './Bind'
 let App=()=>{
 return <div>
-    <h1>Welcome to ReactJs</h1>
-    <Items/>
+    <h1 className="navbar-dark bg-success">Welcome to ReactJs</h1>
+    <Bind/>
 </div>
 }
 export default App
